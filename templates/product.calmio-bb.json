@@ -269,8 +269,9 @@
         "image_TwVztr": {
           "type": "image",
           "settings": {
-            "alignment": "start",
-            "max_width": 150
+            "image": "shopify://shop_images/livita.png",
+            "alignment": "center",
+            "max_width": 500
           }
         }
       },
@@ -433,32 +434,18 @@
     "rich_text_qBWVrK": {
       "type": "rich-text",
       "blocks": {
-        "subheading_RGUjyW": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_c7hzWM": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Consigliato dagli specialisti",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_cBBmzD": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_RGUjyW",
-        "heading_c7hzWM",
-        "richtext_cBBmzD"
+        "heading_c7hzWM"
       ],
       "name": "Rich text",
       "settings": {
@@ -476,34 +463,21 @@
         "subheading_FfDzXK": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_Aw9P7J": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        },
-        "richtext_MaqNfR": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "text": ""
           }
         }
       },
       "block_order": [
-        "subheading_FfDzXK",
-        "heading_Aw9P7J",
-        "richtext_MaqNfR"
+        "subheading_FfDzXK"
       ],
       "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/dsjhbfds.jpg",
+        "mobile_image": "shopify://shop_images/dsjhbfds.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -514,31 +488,14 @@
     "rich_text_ACtG8L": {
       "type": "rich-text",
       "blocks": {
-        "subheading_HdFYbm": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_V3R9xy": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
         "richtext_JDmViN": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Questi pesi sono stati convalidati da professionisti sanitari e specialisti del benessere emotivo.<br/><br/>Molte persone hanno riscontrato un effetto calmante grazie alla pressione profonda, in particolare tramite giocattoli di peluche pesanti.</p><p>L'uso regolare è stato associato a una diminuzione del senso di solitudine, nonché a miglioramenti del sonno e della concentrazione.</p><p>Lo studio ha coinvolto 487 partecipanti di età compresa tra 7 e 65 anni.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_HdFYbm",
-        "heading_V3R9xy",
         "richtext_JDmViN"
       ],
       "name": "Rich text",
