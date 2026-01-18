@@ -258,8 +258,8 @@
         "buy_buttons_hCPjHX": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
             "atc_button_background": "",
             "atc_button_text_color": "",
             "payment_button_background": "",
@@ -307,16 +307,16 @@
         "tab_Lw8V4x": {
           "type": "tab",
           "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
+            "title": "Descrizione",
+            "content": "<p><strong>🧸 Scopri CALMIO</strong> : i peluche che ti coccolano davvero.</p><p>I MOKOHUG sono delle mascotte uniche, dotate di braccia pesanti e lunghe gambe che ti avvolgono letteralmente in un abbraccio caldo e rassicurante.</p><p>Aiutano bambini e adulti a calmarsi, ad addormentarsi più velocemente e a sentirsi al sicuro, sia prima di andare a letto, sia durante lo studio, il lavoro o durante un periodo di forti emozioni.</p><p>Non ti scivoleranno dalle spalle, quindi potrai averli sempre con te: durante un pisolino, alla scrivania, sul divano o in viaggio.</p><p>🐼🦥 Per i bambini, è un amico leale e rassicurante. Per gli adulti, è un modo gentile per trovare conforto e pace interiore quando più ne hanno bisogno.</p>",
             "page": ""
           }
         },
         "tab_nEqxET": {
           "type": "tab",
           "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Dettagli",
+            "content": "<p>Questi pesi hanno le dimensioni perfette per essere appoggiati sulle ginocchia, abbracciati o accoccolati mentre dormi.</p><p><strong>L:</strong> 65 cm x 56 cm (ideale per un abbraccio ancora più avvolgente)</p><p>1 kg (braccia appesantite)</p><p><strong>M:</strong> 45 cm (perfetto sia per adulti che per bambini)</p><p>45 cm per un peso di 500 g.</p><p><strong>S</strong> : 30 cm x 26 cm (ideale per bambini)</p><p>400 g (distribuiti uniformemente)</p><p>Materiale: pelliccia di alta qualità, ultra morbida, 100% poliestere, zampe imbottite con perline di plastica. Questo materiale è ipoallergenico.</p><p>Nonostante il loro peso, i prodotti CALMIO sono facili da pulire!</p><p>👉 Per le macchie piccole è sufficiente <strong>un panno umido</strong> . 👉 Per le macchie più grandi: <strong>lavare delicatamente a mano</strong> con un sapone neutro e lasciare asciugare all'aria.</p><p><em>Sconsigliamo il lavaggio in lavatrice e l'uso di detersivi aggressivi, poiché potrebbero danneggiare la morbidezza della pelliccia.<br/></em><br/>⚠️ Questi peluche non sono adatti a bambini di età inferiore a 7 anni.</p>",
             "page": ""
           }
         },
