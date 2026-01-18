@@ -225,64 +225,37 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
         "title": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "badges": {
-          "type": "badges",
-          "settings": {}
-        },
-        "price": {
-          "type": "price",
+        "liquid_i3teFM": {
+          "type": "liquid",
           "settings": {
-            "show_taxes_notice": false
+            "liquid": "{% if shop.locale == 'it' %}\n<!DOCTYPE html>\n<html lang=\"it\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Trustpilot Rating</title>\n    <style>\n        .container-trustpilot {\n            background-color: #e9f8fe;\n            border: 1px dashed #006400;\n            padding: 5px 5px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 10px;\n        }\n        .container-trustpilot img { margin: 0 10px; }\n        .container-trustpilot .stars { max-width: 80px; }\n        .container-trustpilot .logo { max-width: 70px; }\n        .container-trustpilot span { margin: 0 5px; }\n        .excellent { color: #000; font-size: 12px; }\n        .rating-text { color: #000; font-size: 10px; }\n    </style>\n</head>\n<body>\n    <div class=\"container-trustpilot\">\n        <span class=\"excellent\"><b>\"ECCELLENTE\"</b></span>\n        <img class=\"stars\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/4.5-stars-trustpilot_2157d8d9-101e-46a2-a3fe-ac80f2fecf10.png?v=1688082792\" alt=\"4.7/5 Rating\">\n        <span class=\"rating-text\">valutato 4,8/5 su</span>\n        <img class=\"logo\" src=\"https://cdn.shopify.com/s/files/1/0647/2148/6072/files/Trustpilot_Logo__2022_.svg_2.png?v=1687091440\" alt=\"Trustpilot Logo\">\n    </div>\n</body>\n</html>\n{% endif %}"
           }
         },
-        "rating": {
-          "type": "rating",
+        "liquid_aDyzTq": {
+          "type": "liquid",
           "settings": {
-            "show_empty": false
+            "liquid": "{% if shop.locale == 'it' %}\n  ✨ Calma la tua mente e migliora il tuo sonno<br>\n  ☁️ Dissolve stress, nervosismo e agitazione<br>\n  🧠 Potenzia naturalmente i tuoi ormoni della felicità\n{% endif %}"
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
-        },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
+        "rapi_bundles_rapi_bundle_8REkn3": {
+          "type": "shopify://apps/rapi-bundles/blocks/rapi-bundle/99617c17-a32b-4e70-a883-7a155610d032",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "product": "{{product}}"
           }
         },
-        "variant_picker": {
-          "type": "variant_picker",
+        "liquid_ydQhKW": {
+          "type": "liquid",
           "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
+            "liquid": "<ul style=\"list-style:none; padding:0; margin:0;\">\n  <li>\n    <style>\n      .items-left-badge {\n        display: inline-flex;\n        align-items: center;\n        background-color: #ffdede;\n        color: #b22222;\n        padding: 3px 6px;\n        border-radius: 5px;\n        font-size: 10px;\n        font-weight: 700;\n        gap: 4px;\n        line-height: 1;\n      }\n\n      .items-left-badge .flame svg {\n        width: 12px;\n        height: 12px;\n        animation: flamePulse 2s infinite;\n      }\n\n      @keyframes flamePulse {\n        0%, 100% { transform: scale(1); }\n        50% { transform: scale(1.2); }\n      }\n    </style>\n\n    <div class=\"items-left-badge\" role=\"status\" aria-live=\"polite\">\n      <span class=\"flame\" aria-hidden=\"true\">\n        <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n          <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n        </svg>\n      </span>\n\n      {% case shop.locale %}\n        {% when 'fr' %} Stock : 6 restants\n        {% when 'it' %} Scorte: 6 rimasti\n        {% when 'es' %} Stock: 6 restantes\n      {% endcase %}\n    </div>\n  </li>\n</ul>"
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons": {
+        "buy_buttons_hCPjHX": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": true,
@@ -292,20 +265,23 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "image_TwVztr": {
+          "type": "image",
+          "settings": {
+            "alignment": "start",
+            "max_width": 150
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
-        "badges",
-        "price",
-        "rating",
-        "payment_terms",
-        "separator",
-        "description",
-        "variant_picker",
-        "quantity_selector",
-        "buy_buttons"
+        "liquid_i3teFM",
+        "liquid_aDyzTq",
+        "rapi_bundles_rapi_bundle_8REkn3",
+        "liquid_ydQhKW",
+        "buy_buttons_hCPjHX",
+        "image_TwVztr"
       ],
       "settings": {
         "full_width": true,
