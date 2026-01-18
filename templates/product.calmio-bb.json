@@ -169,6 +169,7 @@
         "item_k4gApx": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gfgdsfgsdq.png",
             "column_size": "3",
             "title": "Raffaello J.",
             "heading_tag": "h4",
@@ -181,6 +182,7 @@
         "item_VTt6UM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gfdsf.png",
             "column_size": "3",
             "title": "Océane L.",
             "heading_tag": "h4",
@@ -193,6 +195,7 @@
         "item_WT7tdX": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gfdshgsfd.png",
             "column_size": "3",
             "title": "Daniele S.",
             "heading_tag": "h4",
