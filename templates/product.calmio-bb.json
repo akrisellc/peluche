@@ -320,11 +320,19 @@
             "page": ""
           }
         },
+        "tab_YHtEcK": {
+          "type": "tab",
+          "settings": {
+            "title": "Come funziona",
+            "content": "<p><strong>I pesi sfruttano la terapia della pressione profonda</strong> , una tecnica che applica una pressione delicata e rilassante sul corpo, procurando una sensazione paragonabile a un vero abbraccio.</p><p>Questa pressione stimola il sistema nervoso parasimpatico, responsabile della pace, della rigenerazione e della sensazione di sicurezza.</p><p>Quando abbracci CALMIO o lasci che le sue braccia pesanti ti avvolgano, il tuo cervello riceve un messaggio chiaro:</p><p><strong>\"Sei al sicuro. Puoi respirare e rallentare.\"</strong></p><p>Il che lo rende:</p><ul><li>Il livello di cortisolo, l'ormone dello stress, diminuisce,</li><li>La tensione e l'ansia diminuiscono,</li><li>I pensieri smettono di correre,</li><li>I livelli di serotonina e dopamina – gli ormoni della felicità – aumentano,</li><li>La concentrazione e la qualità del sonno migliorano notevolmente.</li></ul><p>Che tu sia sul divano, a letto o alla scrivania, CALMIO™ ti avvolge nella pace e ti porta un sollievo immediato proprio quando ne hai più bisogno.</p><p>Non ti scivoleranno dalle spalle, quindi potrai averli sempre con te: durante un pisolino, alla scrivania, sul divano o in viaggio.</p><p>🐼🦥 Per i bambini, è un amico leale e rassicurante. Per gli adulti, è un modo gentile per trovare conforto e pace interiore quando più ne hanno bisogno.</p>",
+            "page": ""
+          }
+        },
         "tab_x9rUxw": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Spedizioni e resi",
+            "content": "<p>L'elaborazione dell'ordine richiede un ritardo di <strong>2-3 giorni lavorativi</strong> prima della spedizione.<br/><br/>Una volta effettuata la spedizione, la consegna richiede in genere dai <strong>6 ai 12 giorni.</strong></p><p>Siamo certi che amerai il tuo CALMIO e ne trarrai beneficio.<br/><br/>Tuttavia, se per qualsiasi motivo non soddisfa le tue aspettative, puoi restituirlo entro 30 giorni per ottenere un rimborso.</p><p><strong>La tua soddisfazione è la nostra priorità. Zero stress, zero rischi.</strong></p>",
             "page": ""
           }
         }
@@ -332,6 +340,7 @@
       "block_order": [
         "tab_Lw8V4x",
         "tab_nEqxET",
+        "tab_YHtEcK",
         "tab_x9rUxw"
       ],
       "name": "Tabs",
