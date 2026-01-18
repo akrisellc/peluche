@@ -439,5 +439,10 @@
         "other": "Questo prodotto ha {{ count }} recensioni."
       }
     }
+  },
+  "shopify": {
+    "links": {
+      "powered_by_shopify": "."
+    }
   }
 }
