@@ -131,9 +131,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie D.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>L'ho ricevuto due settimane fa. All'inizio ho pensato: \"Che strano\", ma in realtà è incredibilmente rilassante. Sono molto meno stressata la sera e mi addormento più velocemente. Sono davvero sorpresa dai risultati.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -143,9 +143,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Élodie B.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Ho sempre faticato a gestire lo stress. Da quando ho questo, mi sento meno tesa. È assurdo, ma a volte bastano 5 minuti per calmarmi.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -155,9 +155,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Marc T.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mio figlio è autistico e questo lo aiuta davvero a calmarsi. Lo stringe forte quando è agitato e lo aiuta a controllarsi. Onestamente, il miglior acquisto dell'anno.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -167,9 +167,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Raffaello J.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>L'ho ricevuto due settimane fa. All'inizio ho pensato: \"Che strano\", ma in realtà è incredibilmente rilassante. Sono molto meno stressata la sera e mi addormento più velocemente. Sono davvero sorpresa dai risultati.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -179,9 +179,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Océane L.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Onestamente, non pensavo che funzionasse così bene. Mio figlio lo adora; ora si addormenta con esso ogni notte. Prima, l'ora di andare a letto era un incubo... ora va a letto senza problemi. Sono così felice!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -191,9 +191,9 @@
           "type": "item",
           "settings": {
             "column_size": "3",
-            "title": "Column title",
+            "title": "Daniele S.",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>L'ho comprato per mia figlia di 7 anni. Non lo lascia più andare, lol. Lo porta persino dalla nonna. Ok, è un peluche in più a casa, ma almeno dorme bene 👍</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -212,11 +212,11 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "small",
         "text_alignment": "center",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "I nostri clienti lo dicono meglio",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
