@@ -143,6 +143,7 @@
         "item_azYm3t": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/fdsgdfs.png",
             "column_size": "3",
             "title": "Élodie B.",
             "heading_tag": "h4",
@@ -155,6 +156,7 @@
         "item_3MiwDC": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gfdsfd.png",
             "column_size": "3",
             "title": "Marc T.",
             "heading_tag": "h4",
