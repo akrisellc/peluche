@@ -130,6 +130,7 @@
         "item_n4dpng": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gfsgdfs.png",
             "column_size": "3",
             "title": "Julie D.",
             "heading_tag": "h4",
@@ -365,6 +366,7 @@
         "item_9MYW8Q": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/fdsgsd.jpg",
             "column_size": "3",
             "title": "Abbassano i livelli di cortisolo",
             "heading_tag": "h4",
@@ -377,6 +379,7 @@
         "item_R8PXP6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/vbdfqgfdq.jpg",
             "column_size": "3",
             "title": "Terapia a pressione profonda",
             "heading_tag": "h4",
@@ -389,6 +392,7 @@
         "item_74j3Ap": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/vbfdqsgsdf.jpg",
             "column_size": "3",
             "title": "Calmano il sistema nervoso",
             "heading_tag": "h4",
@@ -401,6 +405,7 @@
         "item_PEWQPg": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/gfdgsfgds.jpg",
             "column_size": "3",
             "title": "Abbracci curativi",
             "heading_tag": "h4",
@@ -482,7 +487,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_ACtG8L": {
