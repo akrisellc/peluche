@@ -84,32 +84,18 @@
     "rich_text_xrBk38": {
       "type": "rich-text",
       "blocks": {
-        "subheading_bCMptK": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_VzFmAG": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
+            "text": "Perché scegliere CALMIO™?",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
-          }
-        },
-        "richtext_Fc497j": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
       "block_order": [
-        "subheading_bCMptK",
-        "heading_VzFmAG",
-        "richtext_Fc497j"
+        "heading_VzFmAG"
       ],
       "name": "Rich text",
       "settings": {
