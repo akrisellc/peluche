@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_T6pC34": {
+          "type": "message",
+          "settings": {
+            "text": "Consegna gratuita",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Saldi invernali fino al –50%",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_T6pC34",
         "message"
       ],
       "settings": {
