@@ -14,17 +14,26 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "links": {
+        "text_hPrURp": {
+          "type": "text",
+          "settings": {
+            "title": "Assistenza clienti",
+            "content": "<p>Via e-mail: info@almacalm.com</p><p>Risposta entro 48 ore, 7 giorni su 7.</p>",
+            "enable_follow_on_shop": false
+          }
+        },
+        "links_LMTgzf": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "politiche",
             "show_menu_title": true,
             "menu_title": ""
           }
         }
       },
       "block_order": [
-        "links"
+        "text_hPrURp",
+        "links_LMTgzf"
       ],
       "settings": {
         "show_social_media": true,
