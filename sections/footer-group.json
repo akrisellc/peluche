@@ -22,6 +22,14 @@
             "enable_follow_on_shop": false
           }
         },
+        "links_HPzFpc": {
+          "type": "links",
+          "settings": {
+            "menu": "footer-2",
+            "show_menu_title": true,
+            "menu_title": ""
+          }
+        },
         "links_LMTgzf": {
           "type": "links",
           "settings": {
@@ -33,6 +41,7 @@
       },
       "block_order": [
         "text_hPrURp",
+        "links_HPzFpc",
         "links_LMTgzf"
       ],
       "settings": {
